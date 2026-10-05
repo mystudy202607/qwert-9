@@ -1,0 +1,9 @@
+# 构建中间产物
+sentences.json
+terms.json
+chapters.json
+_mt_in.json
+_mt_out.json
+summary.json
+fixes.json
+.media_src
